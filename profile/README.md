@@ -1,86 +1,98 @@
-# **FlashUSDT Sender Software**
+# FlashUSDT Sender Software
 
 🚀 **Send Fake USDT Transactions** and prank your friends by simulating blockchain transactions that stay confirmed for **90 days**. **No installation** needed—**purely for fun**!
 
 ---
 
-## 🎯 **Features**
+## 🎯 Features
 
-- 💸 **Fake USDT Transactions**: Send fake USDT transfers with **90 days confirmed status**.
-- ⚡ **Instant Access**: **No setup required**. Just open it in your browser and start using it.
-- 🌐 **Multi-Wallet Support**: Compatible with **Rainbow Wallet**, **Trust Wallet**, and other Ethereum-based wallets.
-- 🧑‍💻 **Highly Responsive UI**: Clean, intuitive design optimized for both **desktop** and **mobile**.
-- 🔒 **100% Safe**: No real transactions involved—just fun and harmless pranks!
+- 💸 **Fake USDT Transactions**: Simulate USDT transfers that appear confirmed on the blockchain for **90 days**.
+- ⚡ **Instant Access**: No setup required. Simply access the web app directly in your browser.
+- 🌐 **Wallet Support**: Fully compatible with **Rainbow Wallet**, **Trust Wallet**, and other Ethereum-based wallets.
+- 🧑‍💻 **Responsive Design**: A modern, clean interface optimized for **desktop** and **mobile** devices.
+- 🔒 **No Real Transactions**: The tool simulates transactions but doesn't involve actual cryptocurrency.
 
 ---
 
-## 🛠️ **How It Works**
+## 🛠️ How It Works
 
 1. **Access the Web App**  
-   Open the app directly in your browser. No installation or setup required. Simply go to [FlashUSDT Sender Software](https://github.com/FlashUSDTSenderSoftware/flashusdtsenderbot.github.io).
+   Open the app directly in your browser: [FlashUSDT Sender Web App](https://flashusdtsendersoftware.github.io/).
 
-2. **Select the Fake USDT Amount**  
-   Choose how much fake USDT you want to send, and it will show as confirmed on the blockchain for **90 days**.
+2. **Choose Fake USDT Amount**  
+   Select the amount of fake USDT you want to prank your friends with. It will appear as confirmed for **90 days**.
 
 3. **Prank Your Friends**  
-   Once you send the transaction, it will appear confirmed on the blockchain. Sit back, relax, and enjoy their reactions!
+   Once you send the fake transaction, it will be displayed as a confirmed transaction on the blockchain. Enjoy the reactions!
 
 ---
 
-## 📐 **Tech Stack**
+## 📐 Tech Stack
 
-- **Frontend**: Built with **HTML**, **CSS**, and **JavaScript** for a fast, responsive UI.
-- **Blockchain Simulation**: Simulates real blockchain transactions, but involves **no actual funds**.
-- **Wallet Integration**: Supports integration with wallets like **Rainbow Wallet** and **Trust Wallet**.
+- **Frontend**: Built with **HTML**, **CSS**, and **JavaScript** for a fast, interactive UI.
+- **Blockchain Simulation**: Simulates real blockchain transactions without transferring actual funds.
+- **Wallet Integration**: Works with **Rainbow Wallet** and **Trust Wallet**, as well as other Ethereum-compatible wallets.
 
 ---
 
-## 🚀 **Quick Start**
+## 🚀 Quick Start
 
-No installation needed! Just follow these simple steps:
+No installation needed! Follow these simple steps:
 
 1. **Visit the Website**  
-   Go to [FlashUSDT Sender Software](https://github.com/FlashUSDTSenderSoftware/flashusdtsenderbot.github.io) in your browser.
+   Go to [FlashUSDT Sender Web App](https://flashusdtsendersoftware.github.io/) in your browser.
 
 2. **Select Fake USDT Amount**  
-   Pick the amount you want to prank your friends with.
+   Pick how much fake USDT you want to send.
 
 3. **Send Fake Transaction**  
-   Hit the send button, and watch the fun unfold!
+   Hit the "Send" button and prank your friends with a fake transaction that appears confirmed!
 
 ---
 
-## 👨‍💻 **Contributing**
+## 👨‍💻 Contributing
 
-We welcome contributions from the community! Whether it's a bug fix, new feature, or just a cool idea, we'd love to have you help make FlashUSDT Sender even better.
+We encourage open-source contributions! Help improve FlashUSDT Sender Software by fixing bugs, adding new features, or suggesting improvements.
 
 ### How to Contribute:
-1. **Fork the repository**.
-2. **Create a new branch** for your feature.
-3. **Commit your changes**.
-4. **Push to your fork**.
-5. **Create a pull request** with a clear description of what you've done.
+
+1. **Fork the Repository**  
+   Click the "Fork" button on GitHub to create your own copy.
+
+2. **Create a Branch**  
+   Create a new branch for the feature you're working on.
+
+3. **Make Your Changes**  
+   Work on your changes locally.
+
+4. **Commit Your Changes**  
+   Write clear and concise commit messages.
+
+5. **Push and Create a Pull Request**  
+   Push your changes to your fork and submit a pull request with a description of what you've done.
 
 ---
 
-## ⚠️ **Disclaimer**
+## ⚠️ Disclaimer
 
-This software is intended **for entertainment purposes only**. It simulates blockchain transactions without transferring any real cryptocurrency or assets. Use responsibly and **don't misuse** the app for malicious activities.
-
----
-
-## 🔗 **Links**
-
-- **GitHub Repository**: [FlashUSDT Sender Software](https://github.com/FlashUSDTSenderSoftware/flashusdtsenderbot.github.io)
-- **Open Source Contributions**: Contribute to the project on [GitHub](https://github.com/FlashUSDTSenderSoftware)
+This tool is for **entertainment purposes only**. It simulates blockchain transactions with no real cryptocurrency involved. **Do not use for malicious purposes**. Use responsibly!
 
 ---
 
-### 🧑‍💻 **Built By**
+## 🔗 Links
+
+- **Official Website**: [FlashUSDT Sender Website](https://flashusdtsender.xyz/)
+- **Web App**: [FlashUSDT Sender Web App](https://flashusdtsendersoftware.github.io/)
+- **GitHub Repository**: [FlashUSDT Sender Software Repo](https://github.com/FlashUSDTSenderSoftware/Flash-USDT-Sender-Bot)
+- **Project Page**: [FlashUSDT Sender Project](https://flashusdtsender.xyz/)
+
+---
+
+## 🧑‍💻 Built By
 
 - [FlashUSDT Sender Software Team](https://github.com/FlashUSDTSenderSoftware)
-- **Made with love** by the **open-source community**!
+- Made with ❤️ by the **open-source community**.
 
 ---
 
-Enjoy the prank, and remember to use this tool in the spirit of fun! 😎
+**Enjoy pranking your friends**—just remember, it's all in the spirit of fun! 😎
